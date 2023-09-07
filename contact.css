@@ -1,0 +1,35 @@
+.header{
+    width: 100%;
+    background-color: rgb(219, 14, 127);
+}
+
+.nav-link{
+    color: white !important;
+}
+
+.navbar-brand{
+    color: white !important;
+}
+
+.contact-form{
+    background-color:white ;
+    padding: 20px;
+    border-radius: 20px;
+    text-align: center;
+}
+
+.contact-form h1{
+    padding-top: 100px;
+}
+
+.footer{
+    text-align: center;
+    padding: 20px;
+    margin-top: 300px;
+    color: white;
+    background-color: rgb(219, 14, 127);
+}
+
+.footer p{
+    margin-top: 10px;
+}
